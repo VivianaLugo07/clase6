@@ -1,18 +1,18 @@
 body {
     background-color: #E6B3F4;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
-    height: 100vh; /* Ocupa toda la altura de la ventana */
-    margin: 0; /* Elimina los márgenes predeterminados */
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
 }
 
 #form {
-    text-align: center; /* Opcional: centra el contenido dentro del div */
-    background-color: #fff; /* Fondo del formulario */
+    text-align: center; 
+    background-color: #fff; 
     padding: 20px;
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para estilo */
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .comentario {
